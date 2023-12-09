@@ -1,0 +1,45 @@
+
+        .good {
+            color: blue;
+        }
+
+        div {
+            background-color: goldenrod;
+            border: 1px solid goldenrod;
+            padding: 15px;
+            margin: 0px;
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+
+        }
+
+        a:hover {
+            background-color: grey;
+        }
+
+        #collapse {
+            border-collapse: collapse;
+            padding: 15px;
+        }
+
+        p,
+        h3,
+        date,
+        form,
+        video,
+        img {
+            padding: 15px;
+        }
+
+        .nice {
+            padding: 5px;
+            vertical-align: top
+        }
+
+        body {
+            background-color: bisque;
+        }
+   
